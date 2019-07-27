@@ -22,6 +22,7 @@ class calories(models.Model):
     dietitem = fields.Boolean('diet item')
 
 
+<<<<<<< HEAD
 #class nickname(models.Model):
    # _name = 'res.partner'
    # _inherit = 'res.partner'
@@ -30,6 +31,8 @@ class calories(models.Model):
 
 
 
+=======
+>>>>>>> 053ff7b14172accfcb73e85d8a7c2f82b30fca40
 
 
 
